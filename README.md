@@ -1,6 +1,7 @@
 # Welcome to Bitcoin.org's Codebase
 
 Current Build Status: ![Build Status](https://travis-ci.org/bitcoin-dot-org/bitcoin.org.svg?branch=master)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHorbi%2Fbitcoin.org.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHorbi%2Fbitcoin.org?ref=badge_shield)
 
 Live site: [Bitcoin.org](https://bitcoin.org)
 
@@ -36,3 +37,7 @@ Bitcoin.org is community supported: [1GwV7fPX97hmavc6iNrUZUogmjpLPrPFoE](bitcoin
 
 ### Questions?
 Please contact Will Binns ([will@bitcoin.org](mailto:will@bitcoin.org)) if you need help.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHorbi%2Fbitcoin.org.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHorbi%2Fbitcoin.org?ref=badge_large)
